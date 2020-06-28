@@ -9,3 +9,13 @@
 
 # ゲーム内補足
 - Escapeキーでゲームを終了出来ます。
+
+# 使用素材
+- いらすとや
+  https://www.irasutoya.com/
+- イラストレイン
+　https://illustrain.com/
+- 効果音ラボ
+  https://soundeffect-lab.info/
+- 魔王魂
+  https://maoudamashii.jokersounds.com/
