@@ -10,6 +10,12 @@
 # ゲーム内補足
 - Escapeキーでゲームを終了出来ます。
 
+# 使用言語
+- C++
+
+# 開発環境
+-Visual Studio
+
 # 使用素材
 - いらすとや
   https://www.irasutoya.com/
