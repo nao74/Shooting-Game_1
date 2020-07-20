@@ -18,7 +18,10 @@ https://youtu.be/VQ_WJcsZt9Q
 - C++
 
 # 開発環境
--Visual Studio
+-Visual Studio 2017
+
+# 使用ライブラリ
+- DXライブラリ 2017
 
 # 使用素材
 - いらすとや
